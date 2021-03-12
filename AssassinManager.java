@@ -1,5 +1,4 @@
 //Jacqueline Jou
-//TA: Aidan Thaler
 //AssassinManager creates a game of Assassin where players are constantly stalking their opponent
 //until only one player is left who is the winner.
 import java.util.*;
